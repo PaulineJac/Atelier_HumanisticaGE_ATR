@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>17_c16b5_default.jpg</fileName>
+      <fileIdentifier>https://iiif.unige.ch/iiif/2/1072068758_019/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT881" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT882" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT883" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT884" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
+    <OtherTag ID="LT314" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT315" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3057"
+          HEIGHT="3475"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3057"
+                  HEIGHT="3475">
+        
+        <TextBlock HPOS="393"
+                   VPOS="410"
+                   WIDTH="2364"
+                   HEIGHT="2782"
+                   ID="eSc_textblock_e3fb2241"
+                   TAGREFS="BT882">
+          <Shape><Polygon POINTS="697 650 408 655 393 3192 2748 3192 2757 410 718 447"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2581"
+                   VPOS="164"
+                   WIDTH="255"
+                   HEIGHT="167"
+                   ID="eSc_textblock_7764af2e"
+                   TAGREFS="BT883">
+          <Shape><Polygon POINTS="2581 164 2581 331 2836 331 2836 164"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
