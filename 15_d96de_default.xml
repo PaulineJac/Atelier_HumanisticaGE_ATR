@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>15_d96de_default.jpg</fileName>
+      <fileIdentifier>https://iiif.unige.ch/iiif/2/1072068758_017/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT881" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT882" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT883" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT884" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
+    <OtherTag ID="LT314" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT315" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3057"
+          HEIGHT="3475"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3057"
+                  HEIGHT="3475">
+        
+        <TextBlock HPOS="510"
+                   VPOS="321"
+                   WIDTH="2370"
+                   HEIGHT="2930"
+                   ID="eSc_textblock_615f46ad"
+                   TAGREFS="BT881">
+          <Shape><Polygon POINTS="510 321 510 3251 2880 3251 2880 321"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_399ac2eb"
+                    TAGREFS="LT314"
+                    BASELINE="1146 1380 2324 1392" 
+                    HPOS="1141"
+                    VPOS="1198"
+                    WIDTH="1182"
+                    HEIGHT="220">
+            <Shape><Polygon POINTS="1144 1378 1141 1390 1228 1410 1231 1410 1416 1392 1431 1392 1434 1392 1457 1413 1460 1413 1463 1413 1466 1413 1535 1401 1770 1416 1773 1416 1776 1416 1828 1398 1848 1416 1851 1416 1854 1416 1857 1416 1958 1404 2028 1418 2031 1418 2034 1418 2086 1401 2321 1401 2323 1390 2323 1274 2205 1216 2202 1216 2031 1204 1979 1204 1976 1204 1973 1204 1970 1204 1941 1227 1895 1219 1892 1219 1889 1219 1886 1219 1811 1265 1680 1251 1677 1251 1674 1251 1622 1268 1602 1251 1599 1251 1596 1251 1593 1251 1590 1251 1532 1265 1431 1198 1428 1198 1425 1198 1358 1198 1356 1198 1353 1198 1350 1198 1350 1201 1277 1265 1274 1265 1144 1265 1144 1378"/></Shape>
+	    <String CONTENT="Ebauche"
+                    HPOS="1141"
+                    VPOS="1198"
+                    WIDTH="1182"
+                    HEIGHT="220"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fff01319"
+                    TAGREFS="LT315"
+                    BASELINE="1760 2944 2218 2946 2520 2955 2805 3075" 
+                    HPOS="1750"
+                    VPOS="2756"
+                    WIDTH="1072"
+                    HEIGHT="357">
+            <Shape><Polygon POINTS="1758 2942 1750 3014 1912 3029 1915 3029 1918 3029 1921 3029 2013 2971 2039 2979 2042 2979 2045 2979 2048 2979 2135 2953 2216 2982 2219 2982 2222 2982 2225 2982 2228 2982 2251 2965 2407 2979 2477 3043 2480 3043 2483 3043 2486 3043 2547 3037 2619 3098 2628 3107 2631 3107 2633 3107 2799 3113 2804 3072 2822 2878 2738 2846 2735 2846 2732 2846 2729 2846 2706 2858 2674 2835 2671 2835 2668 2835 2665 2835 2616 2840 2547 2794 2544 2794 2541 2794 2384 2777 2381 2777 2378 2777 2280 2826 2274 2829 2268 2826 2196 2768 2193 2768 2190 2768 2126 2756 2123 2756 2121 2756 2031 2800 2025 2803 1773 2777 1758 2942"/></Shape>
+	    <String CONTENT="M. J. v.  Saintes Woff"
+                    HPOS="1750"
+                    VPOS="2756"
+                    WIDTH="1072"
+                    HEIGHT="357"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
