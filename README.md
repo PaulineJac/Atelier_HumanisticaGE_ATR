@@ -1,7 +1,7 @@
 # Transcrire le patrimoine grâce à l'AI
 Cet atelier, réalisé durant le colloque Humanistica à Genève en 2023, propose une introduction aux technologies ATR (Automatic Text Recognition) utilisées pour la transcription de documents patrimoniaux manuscrits ou imprimés.
 
-##Documentation complémentaire
+## Documentation complémentaire
 
 - Documentation FoNDUE :  <https://github.com/FoNDUE-HTR/Documentation>
 - Cours sur Mediaserve :  <https://mediaserver.unige.ch/play/VN3-4929-2022-2023>
